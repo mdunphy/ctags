@@ -1,0 +1,7 @@
+mod1	input.f90	/^module mod1$/;"	line:1	end:17
+iface1	input.f90	/^  interface iface1$/;"	line:2	end:3
+type1	input.f90	/^  type :: type1$/;"	line:5	end:7
+x	input.f90	/^    integer :: x$/;"	line:6
+sub1	input.f90	/^  subroutine sub1(/;"	line:11	end:12
+func1	input.f90	/^  function func1(/;"	line:14	end:16
+prog1	input.f90	/^program prog1$/;"	line:19	end:20
